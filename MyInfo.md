@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **React Js , Flutter**
-- 
+
 - 💞️ I’m looking for an internship
-- 
+
 - 🤝 I’m looking for help with **Machine Learning**
 
 - 📫 How to reach me **devkumar692k@gmail.com**
