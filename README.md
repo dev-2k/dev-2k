@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **React Js , Flutter**
+- 👯 I’m looking to collaborate on **React Js , Flutter, Machine Learnin**
 
 - 💞️ I’m looking for an internship
 
