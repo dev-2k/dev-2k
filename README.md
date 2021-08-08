@@ -4,8 +4,9 @@ dev-2k/dev-2k is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Dev Kumar</h1>
+
+
 <h3 align="center">👀  A passionate developer from India. I’m interested in artificial intelligence, data science, web development, android development</h3>
-<a href = "https://dev-2k.github.io/">Contact Me</a>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
